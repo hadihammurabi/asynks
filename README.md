@@ -4,7 +4,7 @@ Run asynchronous tasks in Go.
 > Inspired by Promise methods in JS
 
 # Features
-* Run functions in asynchronously
+* Run functions asynchronously
 * Clear API
 * Remove goroutine complexity
 
