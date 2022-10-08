@@ -1,4 +1,4 @@
-module github.com/asynks/asynks
+module github.com/hadihammurabi/asynks
 
 go 1.17
 
